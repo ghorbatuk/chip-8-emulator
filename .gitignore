@@ -1,2 +1,4 @@
 .vs/
 *.vcxproj*
+chip-8-emulator/
+x64/
